@@ -129,7 +129,11 @@ The saved pipeline includes:
 - a logarithmic target transformation; and
 - the trained Random Forest regressor.
 
-## 8. Limitations
+## 8. Dataset source
+
+The dataset contains 1,200 disclosed house sales manually collected from publicly available Domain property listings for educational purposes. It includes 400 observations from Liverpool, Ryde, and Mosman. The source URLs are retained in the dataset to support traceability.
+
+## 9. Limitations
 
 The application is based on disclosed historical sales from three Sydney suburbs. It does not account for every factor affecting property value, including renovation quality, condition, architectural design, views, frontage, exact street position, or buyer competition.
 
